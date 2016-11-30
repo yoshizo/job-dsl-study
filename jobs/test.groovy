@@ -1,0 +1,2 @@
+job(TARGET_JOB_NAME) {
+}
